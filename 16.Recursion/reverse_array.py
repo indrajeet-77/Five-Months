@@ -51,16 +51,13 @@
 
 
 
-
-
-
-def printNtimes(n):
-    if n<1:
-        return
-    print("Coding Ninjas",end=" ")
-    printNtimes(n-1)
+# def printNtimes(n):
+#     if n<1:
+#         return
+#     print("Coding Ninjas",end=" ")
+#     printNtimes(n-1)
     
-printNtimes(3)
+# printNtimes(3)
 
 
 
